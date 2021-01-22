@@ -54,7 +54,7 @@
   position: relative;
 }
 
-@media (min-width: 60em) {
+@media (min-width: 100em) {
   .wrapper {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -67,7 +67,7 @@
     height: 100%;
     margin: auto;
   }
-
+  
   .slider-button {
     display: inline-block;
     width: 5%;
