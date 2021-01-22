@@ -1,5 +1,5 @@
 .slider-button {
-  color: #000
+  color: #000;
   display: none;
 }
 
@@ -54,7 +54,7 @@
   position: relative;
 }
 
-@media (min-width: 100em) {
+@media (min-width: 48em) {
   .wrapper {
     display: -webkit-box;
     display: -ms-flexbox;
