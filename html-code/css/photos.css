@@ -54,7 +54,7 @@
   position: relative;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 60em) {
   .wrapper {
     display: -webkit-box;
     display: -ms-flexbox;
