@@ -54,10 +54,10 @@
   position: relative;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 700px) {
   .wrapper {
     display: -webkit-box;
-    display: -ms-flex;
+    display: -ms-flexbox;
     display: flex;
     -webkit-box-align: stretch;
         -ms-flex-align: stretch;
