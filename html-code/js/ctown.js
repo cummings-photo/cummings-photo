@@ -1,4 +1,5 @@
 const images = [
+   {"url" : "../ART/chinatown/intro.png", "label": "foreword"},
    {"url" : "../ART/chinatown/IMG_3139.jpeg", "label": "chinatown, nyc, 2021"},
    {"url" : "../ART/chinatown/IMG_0348.jpeg", "label": "chinatown, nyc, 2021"},
    {"url" : "../ART/chinatown/IMG_3385.jpeg", "label": "chinatown, nyc, 2021"},
