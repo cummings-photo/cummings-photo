@@ -6,5 +6,13 @@ const images = [
    {"url": "../html-collages/05.png", "label": "manhattan is a port city, 2020"},
    {"url": "../html-collages/06.png", "label": "companion, 2020"},
    {"url": "../html-collages/07.png", "label": "going south, 2020"},
-   
+   {"url": "../html-collages/merrr.png", "label": "untitled, 2021"},
+   {"url": "../html-collages/ice cream.png", "label": "special delivery, 2021"},
+   {"url": "../html-collages/ehhh.png", "label": "one way, 2021"},
+   {"url": "../html-collages/takeout.png", "label": "eye candy, 2021"},
+   {"url": "../html-collages/janeisgod.png", "label": "introspection, 2021"},
+   {"url": "../html-collages/TF2WV.png", "label": "table for 2, with a view, 2021"},
+   {"url": "../html-collages/WPC.png", "label": "gringo loco, 2021"},
+   {"url": "../html-collages/WPC.png", "label": "gringo loco, 2021"},
+   {"url": "../html-collages/UDO.png", "label": "driving while black, 2021"},  
 ]
