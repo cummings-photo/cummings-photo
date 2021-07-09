@@ -33,6 +33,7 @@ $fade-time:   400ms;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
+  transition: opacity $fade-time ease;
 }
 
 .slideshow .slide-active {
@@ -97,7 +98,6 @@ $fade-time:   400ms;
     padding-top: 0;
     padding-left: 1em;
     padding-right: 1em;
-    transition: opacity $fade-time ease;
   }
 
   .slideshow .slide-active .slide-label {
