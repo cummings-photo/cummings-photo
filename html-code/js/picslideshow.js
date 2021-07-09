@@ -7,6 +7,8 @@ const slides = document.querySelectorAll('.slide');
 const slideCount = slides.length;
 let idx = 0;
 
+
+
 function showImg () {
   slides[idx].setAttribute('class', 'slide-active')
 }
@@ -14,6 +16,14 @@ function showImg () {
 function hideImg () {
   slides[idx].setAttribute('class', 'slide')
 }
+
+function openLightbox() {
+  document.getElementById('Lightbox').style.display = 'block'; 
+};
+    
+function closeLightbox() {
+  document.getElementById('Lightbox').style.display = 'none';
+};
 
 function prev () {
   hideImg();
@@ -35,5 +45,7 @@ window.onkeyup = function (e) {
     next();
   } 
 }
+
+
 
 showImg();
