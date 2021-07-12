@@ -1,5 +1,5 @@
 const images = [
-   {"url" : "../ART/portfolio/republican.png", "label": "the republican, 2021"},
+   {"url" : "../ART/portfolio/republican.jpeg", "label": "the republican, 2021"},
  
 ]
    
