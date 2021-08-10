@@ -57,7 +57,7 @@ $fade-time:   400ms;
   position: relative;
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1050px) {
   .wrapper {
     display: -webkit-box;
     display: -ms-flexbox;
