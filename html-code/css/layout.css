@@ -282,7 +282,7 @@ td {
   margin-top: 1em;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 45em) {
   .wrapper {
     display: grid;
     grid-template-columns: 10em 1fr;
