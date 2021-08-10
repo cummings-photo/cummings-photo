@@ -1,5 +1,3 @@
-$fade-time:   400ms;
-
 .slider-button {
   color: #000;
   display: none;
@@ -33,7 +31,6 @@ $fade-time:   400ms;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  transition: opacity $fade-time ease;
 }
 
 .slideshow .slide-active {
