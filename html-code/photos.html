@@ -33,7 +33,7 @@
 
     <script type="text/javascript">
 $(document).ready(function() {
-$("body").keydown(function(event) {
+$("body").onkeyup(function(event) {
   if(event.keyCode == 38) { // left
     try { window.location.replace("https://studio-cjc.com/html-code/index.html"); } 
     catch(e) { window.location = "https://studio-cjc.com/html-code/index.html"; }
