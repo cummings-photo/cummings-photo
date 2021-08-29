@@ -7,4 +7,8 @@ window.onkeyup = function (e) {
    try { window.location.replace("https://studio-cjc.com/html-code/writing.html"); } 
    catch(e) { window.location = "https://studio-cjc.com/html-code/writing.html"; };
   } 
+  else if (key === 39) {
+   try { window.location.replace("https://studio-cjc.com/html-code/joydes1.html"); } 
+   catch(e) { window.location = "https://studio-cjc.com/html-code/joydes1.html"; };
+  } 
 }
