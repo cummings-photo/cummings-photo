@@ -6,9 +6,11 @@ window.onkeyup = function (e) {
   } else if (key === 40) {
    try { window.location.replace("https://studio-cjc.com/html-code/writing.html"); } 
    catch(e) { window.location = "https://studio-cjc.com/html-code/writing.html"; };
-  } 
-  else if (key === 39) {
+  } else if (key === 39) {
    try { window.location.replace("https://studio-cjc.com/html-code/joydes1.html"); } 
    catch(e) { window.location = "https://studio-cjc.com/html-code/joydes1.html"; };
+  } else if (key === 37) {
+   try { window.location.replace("https://studio-cjc.com/html-code/campaigns.html"); } 
+   catch(e) { window.location = "https://studio-cjc.com/html-code/campaigns.html"; };
   } 
 }
