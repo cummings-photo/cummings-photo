@@ -1,4 +1,13 @@
 const images = [
+   {"url" : "../ART/blackonblack/hegone.png", "label": "rest in peace, 2021"},
+   {"url" : "../ART/blackonblack/bigbattygyal.png", "label": "big batty gyal, 2021"},
+   {"url" : "../ART/blackonblack/call.png", "label": "watts - freddie gibbs & madlib, 2021"},
+   {"url" : "../ART/blackonblack/bopbop.png", "label": "the shooter, 2021"},
+   {"url" : "../ART/blackonblack/cheadleshot.png", "label": "the shot, 2021"},
+   {"url" : "../ART/blackonblack/homies.png", "label": "the homies, 2021"},
+   {"url" : "../ART/blackonblack/bronxdj.png", "label": "wheelz of steel, 2021"},
+   {"url" : "../ART/blackonblack/menma.png", "label": "me n' ma, 2021"},
+   {"url" : "../ART/blackonblack/realdads.png", "label": "real dads, 2021"},
    {"url" : "../ART/blackonblack/spade.png", "label": "re-nigg, 2021"},
    {"url" : "../ART/blackonblack/eercut.png", "label": "eercut, 2021"},
    {"url" : "../ART/blackonblack/nyc.png", "label": "who is you, 2021"},
