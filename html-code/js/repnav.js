@@ -49,8 +49,8 @@ window.onkeyup = function (e) {
     try { window.location.replace("https://studio-cjc.com/html-code/ties.html"); } 
     catch(e) { window.location = "https://studio-cjc.com/html-code/ties.html"; };
   } else if (key === 40) {
-   try { window.location.replace("https://studio-cjc.com/html-code/collage.html"); } 
-   catch(e) { window.location = "https://studio-cjc.com/html-code/collage.html"; };
+   try { window.location.replace("https://studio-cjc.com/html-code/easteregg.html"); } 
+   catch(e) { window.location = "https://studio-cjc.com/html-code/easteregg.html"; };
   } 
 }
 
