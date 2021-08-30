@@ -4,6 +4,7 @@ const images = [
    {"url" : "../ART/blackonblack/call.png", "label": "watts - freddie gibbs & madlib, 2021"},
    {"url" : "../ART/blackonblack/bopbop.png", "label": "the shooter, 2021"},
    {"url" : "../ART/blackonblack/cheadleshot.png", "label": "the shot, 2021"},
+   {"url" : "../ART/blackonblack/kickthatbeat.png", "label": "kick that beat, 2021"},
    {"url" : "../ART/blackonblack/homies.png", "label": "the homies, 2021"},
    {"url" : "../ART/blackonblack/bronxdj.png", "label": "wheelz of steel, 2021"},
    {"url" : "../ART/blackonblack/menma.png", "label": "me n' ma, 2021"},
