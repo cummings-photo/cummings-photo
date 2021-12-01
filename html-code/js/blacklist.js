@@ -1,5 +1,11 @@
 const images = [
-   {"url" : "../ART/blackonblack/hegone.png", "label": "rest in peace, 2021"},
+   {"url" : "../ART/blackonblack/sodmgweb.png", "label": "money counter, fuck a bank, 2021"},
+   {"url" : "../ART/blackonblack/ciggieweb.png", "label": "liberty pack, 2021"},
+   {"url" : "../ART/blackonblack/gorlweb.png", "label": "flower girl, 2021"},
+   {"url" : "../ART/blackonblack/sldweb.png", "label": "senor love daddy, 2021"},
+   {"url" : "../ART/blackonblack/squillsweb.png", "label": "454 - pisces, 2021"},
+   {"url" : "../ART/blackonblack/screaminweb.png", "label": "screamin, 2021"},
+   {"url" : "../ART/blackonblack/moodweb.png", "label": "telephone moods, 2021"},
    {"url" : "../ART/blackonblack/bigbattygyal.png", "label": "big batty gyal, 2021"},
    {"url" : "../ART/blackonblack/call.png", "label": "watts - freddie gibbs & madlib, 2021"},
    {"url" : "../ART/blackonblack/bopbop.png", "label": "the shooter, 2021"},
