@@ -10,7 +10,6 @@ const images = [
    {"url": "../html-collages/icecream.png", "label": "special delivery, 2021"},
    {"url": "../html-collages/ehhh.png", "label": "one way, 2021"},
    {"url": "../html-collages/takeout.png", "label": "eye candy, 2021"},
-   {"url": "../html-collages/janeisgod.png", "label": "introspection, 2021"},
    {"url": "../html-collages/TF2WV.png", "label": "table for 2, with a view, 2021"},
    {"url": "../html-collages/WPC.png", "label": "gringo loco, 2021"},
    {"url": "../html-collages/UDO.png", "label": "driving while black, 2021"},  
