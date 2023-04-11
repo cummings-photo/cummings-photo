@@ -9,8 +9,8 @@ const images = [
   {"url": "../html-pics/000055280010.jpg", "label": "flushing, nyc, 2022"},
   {"url": "../html-pics/000055300018.jpg", "label": "williamsburg, nyc, 2022"},
   {"url": "../html-pics/000055300014.jpg", "label": "williamsburg, ny, 2020"},
-  {"url": "../html-pics/000039980009.jpg", "label": "louis gantry state park, nyc, 2022"},
-  {"url": "../html-pics/000039960023.jpg", "label": "mccarren park, nyc, 2022"},
+  {"url": "../html-pics/pepsicola.png", "label": "louis gantry state park, nyc, 2022"},
+  {"url": "../html-pics/caitlynatmccarren.png", "label": "mccarren park, nyc, 2022"},
 
 
 ]
