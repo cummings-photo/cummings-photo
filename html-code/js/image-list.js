@@ -8,7 +8,7 @@ const images = [
   {"url": "../html-pics/7.JPG", "label": "nassau and manhattan, ny, 2024"},
   {"url": "../html-pics/8.jpg", "label": "freeport, ny, 2024"},
   {"url": "../html-pics/9.jpg", "label": "roosevelt, ny, 2024"},
-  {"url": "../html-pics/10.jpg", "label": "nassau ave, ny, 2022"},
+  {"url": "../html-pics/10.png", "label": "nassau ave, ny, 2022"},
   {"url": "../html-pics/11.jpg", "label": "freeport, ny, 2024"},
   {"url": "../html-pics/13.jpg", "label": "freeport, ny, 2024"},
 
