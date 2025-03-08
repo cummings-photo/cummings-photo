@@ -46,8 +46,8 @@ window.onkeyup = function (e) {
   }
   
     else if (key === 38) {
-    try { window.location.replace("https://studio-cjc.com/html-code/brochant.html"); } 
-    catch(e) { window.location = "https://studio-cjc.com/html-code/brochant.html"; };
+    try { window.location.replace("https://studio-cjc.com/html-code/MJ.html"); } 
+    catch(e) { window.location = "https://studio-cjc.com/html-code/MJ.html"; };
   } else if (key === 40) {
    try { window.location.replace("https://studio-cjc.com/html-code/blckcrtns.html"); } 
    catch(e) { window.location = "https://studio-cjc.com/html-code/blckcrtns.html"; };
