@@ -49,8 +49,8 @@ window.onkeyup = function (e) {
     try { window.location.replace("https://studio-cjc.com/html-code/roraintel.html"); } 
     catch(e) { window.location = "https://studio-cjc.com/html-code/roraintel.html"; };
   } else if (key === 40) {
-   try { window.location.replace("https://studio-cjc.com/html-code/childish.html"); } 
-   catch(e) { window.location = "https://studio-cjc.com/html-code/childish.html"; };
+   try { window.location.replace("https://studio-cjc.com/html-code/dad.html"); } 
+   catch(e) { window.location = "https://studio-cjc.com/html-code/dad.html"; };
   } 
 }
 
